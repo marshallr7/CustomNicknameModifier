@@ -1,0 +1,9 @@
+name: MarshallTeldaria
+version: ${project.version}
+main: me.marshall.marshallteldaria.MarshallTeldaria
+api-version: 1.16
+authors: [Marshall]
+description: 1.15 plugins
+commands:
+  nickitem:
+    description: give nick item to user
